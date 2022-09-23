@@ -1,6 +1,6 @@
-<h1 align="center">🧙 🤿 🔬 📏 📸 🛰️ 🗺️ 🎶 🚀</h1>
+<h1 align="center">🧙 🤿 🔬 📏 <br/>📸 🛰️ 🗺️ 🎶 🚀</h1>
 
-- Solution-driven Software Engineer ⌨️
+- Team-player and solution-driven Software Engineer ⌨️
 - Currently interested in mastering building and maintaining high impact, scalable, and useful web and geospatial applications. 🌏
 
 <h1></h1>
@@ -8,15 +8,14 @@
 <details open>
 <summary>📜 Languages</summary>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=Php)
 
 </details>
 
-<details open>
+<details>
   <summary>🧪 Technologies</summary>
 
 #### Frontend
@@ -69,6 +68,13 @@
 </details>
 
 <h1></h1>
-<img height="137px" src="https://github-readme-stat-stacks-canonminds.vercel.app/api?username=canonminds&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<img height="137px" src="https://github-readme-stat-stacks-canonminds.vercel.app/api/top-langs/?username=canonminds&hide=html,css,scss&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=climate-tagging-ph-master,climate-tag-ph&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<details open>
+<summary>⚡ GitHub Statistics</summary>
+<img src="https://github-readme-stat-stacks-canonminds.vercel.app/api?username=canonminds&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&cache_seconds=86400&hide=contribs,issues&card_width=500"/>
+</details>
+
+<details>
+<summary>⚡ Most Used Languages</summary>
+<img src="https://github-readme-stat-stacks-canonminds.vercel.app/api/top-langs/?username=canonminds&hide=html,css,scss&hide_title=true&hide_border=true&layout=default&include_all_commits=true&langs_count=10&count_private=true&exclude_repo=climate-tagging-ph-master,climate-tag-ph&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=500"/>
+</details>
