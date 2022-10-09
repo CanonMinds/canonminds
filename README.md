@@ -37,6 +37,25 @@
 ![Nestjs](https://img.shields.io/badge/-NestJS-000?&logo=nestjs&logoColor=cc0000)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 
+#### Layout and Design
+
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobephotoshop)
+![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-000?&logo=adobeindesign)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?&logo=adobelightroom)
+![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-000?&logo=adobepremierepro)
+![Adobe AfterEffects](https://img.shields.io/badge/-Adobe%20AfterEffects-000?&logo=adobeaftereffects)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-000?&logo=autocad)
+
+#### Geospatial
+
+![QGIS](https://img.shields.io/badge/-QuantumGIS-000?&logo=qgis)
+![MapBox](https://img.shields.io/badge/-MapBox-000?&logo=mapbox)
+![Leaflet](https://img.shields.io/badge/-Leaflet.js-000?&logo=leaflet&logoColor=199900)
+![OpenLayers](https://img.shields.io/badge/-OpenLayers-000?&logo=openlayers&logoColor=00aaff)
+![DeckGL](https://img.shields.io/badge/-DeckGL-000?&logo=uber)
+![ESRI](https://img.shields.io/badge/-ESRI%20ArcGIS-000)
+![GeoNode](https://img.shields.io/badge/-GeoNode-000?&logo=geonode)
+
 #### Productivity Tools and Services
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -55,8 +74,9 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![SQlite](https://img.shields.io/badge/-SQlite-000?&logo=sqlite&logoColor=3d85c6)
+![GeoServer](https://img.shields.io/badge/-GeoServer-000?)
 
-#### 3rd-Party API Integrations
+#### API Integrations
 
 ![AFG FLEX](https://img.shields.io/badge/-🔗FLEX-0066ff)
 ![MoveMeIn](https://img.shields.io/badge/-🔗MoveMeIn-f202bd)
